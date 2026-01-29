@@ -24,6 +24,6 @@
 <p align="center">
   <img src="/github-metrics.svg" height="300" alt="Metrics" />
   <img width="24"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qi-007" height="250" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qi-007" height="300" alt="Top Langs" />
 </p>
 
