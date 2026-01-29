@@ -1,8 +1,8 @@
 <img src=output.gif alt="Here is a little bit about me!">
 
 <p align="center">
-  <img src="/github-metrics.svg" height="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qi-007&layout=compact" height="300"/>
+  <img src="/github-metrics.svg" height="300" alt="Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qi-007" height="300" alt="Top Langs" />
 </p>
 
 <picture>
