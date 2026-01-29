@@ -2,6 +2,6 @@
 
 <p align="left">
   <img src="/github-metrics.svg" height="160" alt="Metrics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qi-007" height="160" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qi-007" height="300" alt="Top Langs" />
 </p>
 
