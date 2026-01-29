@@ -9,4 +9,4 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Qi-007)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%E6%B0%B8%E4%B8%8D%E6%AE%8B%E5%BF%8D%20;%E6%B0%B8%E4%B8%8D%E6%87%A6%E5%BC%B1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing+&weight=200&size=30&duration=2000&pause=800&color=9E9E9E&background=FF160400&center=true&vCenter=true&width=435&lines=%E6%B0%B8%E4%B8%8D%E6%AE%8B%E5%BF%8D;%E6%B0%B8%E4%B8%8D%E6%87%A6%E5%BC%B1)](https://git.io/typing-svg)
