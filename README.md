@@ -1,5 +1,9 @@
 <img src=output.gif alt="Here is a little bit about me!">
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <p align="center">
   <img src="/github-metrics.svg" height="250" alt="Metrics" />
   <img width="24"/>
