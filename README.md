@@ -21,9 +21,5 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
-  <img src="/github-metrics.svg" height="300" alt="Metrics" />
-  <img width="24"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qi-007" height="300" alt="Top Langs" />
-</p>
+<img src="/github-metrics.svg" height="300" alt="Metrics" />
 
