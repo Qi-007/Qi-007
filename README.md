@@ -10,6 +10,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [🧑‍💻​ Ubuntu开发环境准备](https://qi-007.github.io/posts/ubuntu%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E5%87%86%E5%A4%87/)
 - [​🐱​ Livox mid-360/70 使用指南](https://qi-007.github.io/posts/livox-mid-360_70-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
 - [♿ ​深度学习初识：Ultralytics YOLO](https://qi-007.github.io/posts/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%88%9D%E8%AF%86ultralytics-yolo/)
 - [🚀 Claude Code 使用指南](https://qi-007.github.io/posts/-claude-code-%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/)
